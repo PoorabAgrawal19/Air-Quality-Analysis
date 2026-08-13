@@ -22,12 +22,9 @@ The dashboard focuses on:
 
 ## 📊 Dashboard Preview
 
-Add your dashboard screenshots inside an `assets/` folder and update the links below:
+![National Trends Dashboard](dashboard-national-trends.png)
 
-```md
-![National Trends Dashboard](assets/dashboard-national-trends.png)
-![Pollutant Breakdown Dashboard](assets/dashboard-pollutant-breakdown.png)
-```
+![Pollutant Breakdown Dashboard](dashboard-pollutant-breakdown.png)
 
 ## 📌 Key Insights
 
